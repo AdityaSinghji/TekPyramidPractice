@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-29T15:48:55 IST" name="Default suite" finished-at="2025-10-29T15:51:10 IST" duration-ms="134965">
+    <groups>
+    </groups>
+    <test started-at="2025-10-29T15:48:55 IST" name="Default test" finished-at="2025-10-29T15:51:10 IST" duration-ms="134965">
+      <class name="flipkartTest">
+        <test-method signature="Flipkarttest1(java.lang.String)[pri:0, instance:flipkartTest@2d1ef81a]" started-at="2025-10-29T15:48:56 IST" name="Flipkarttest1" data-provider="getData" finished-at="2025-10-29T15:50:05 IST" duration-ms="68491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple iPhone 17 Pro (Deep Blue, 256 GB)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkarttest1 -->
+        <test-method signature="Flipkarttest1(java.lang.String)[pri:0, instance:flipkartTest@2d1ef81a]" started-at="2025-10-29T15:50:05 IST" name="Flipkarttest1" data-provider="getData" finished-at="2025-10-29T15:50:44 IST" duration-ms="38793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Acer Aspire 3 Intel Celeron Dual Core - (8 GB/128 GB SSD/Windows 11 Home) A311-45 Thin and Light Lapto...]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkarttest1 -->
+        <test-method signature="Flipkarttest1(java.lang.String)[pri:0, instance:flipkartTest@2d1ef81a]" started-at="2025-10-29T15:50:44 IST" name="Flipkarttest1" data-provider="getData" finished-at="2025-10-29T15:51:10 IST" duration-ms="26800" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LG LR570 80 cm (32 inch) HD Ready LED Smart WebOS TV 2025 Edition with Alpha5 Gen 6 AI Processor | 100...]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkarttest1 -->
+      </class> <!-- flipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
