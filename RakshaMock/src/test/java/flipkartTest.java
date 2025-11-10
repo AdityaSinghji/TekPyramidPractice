@@ -39,7 +39,7 @@ public class flipkartTest {
 				break;
 			}
 		}
-		
+		driver.close();
 		}
 	
 	
