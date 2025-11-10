@@ -39,6 +39,8 @@ public class flipkartTest1 {
 				break;
 			}
 		}
+		
+		System.out.println("This class got deleted");
 		driver.close();
 		}
 	
